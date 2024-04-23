@@ -1,2 +1,1 @@
 # web-based-logs
-private
